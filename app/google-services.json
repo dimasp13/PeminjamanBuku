@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "675660716216",
+    "project_id": "db-pinjam-buku",
+    "storage_bucket": "db-pinjam-buku.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:675660716216:android:26716a863e57ebd018bc4d",
+        "android_client_info": {
+          "package_name": "com.dims13.peminjamanbuku"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "675660716216-efmnp3v9onask8rr476piajl6egltms8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDcVlZUxmgypGAX1efMTf3YI5YFbuca7MM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "675660716216-efmnp3v9onask8rr476piajl6egltms8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
